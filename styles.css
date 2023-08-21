@@ -1,1 +1,26 @@
 /* your code */
+.header{
+    background-color: blue;
+    color: white;
+    border: 1px solid blue;
+    border-collapse: collapse;
+}
+
+.white{
+    background-color: white;
+    padding: 0px;
+    border-radius: none;
+    border-collapse: collapse;
+}
+.grey{
+    background-color: grey;
+    padding: 0px;
+    border-radius: none;
+    border-collapse: collapse;
+}
+td{
+    border: none;
+    border-collapse: collapse;
+    margin: 0px;
+    padding: 0px;
+}
